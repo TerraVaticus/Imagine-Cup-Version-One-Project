@@ -1,0 +1,959 @@
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR Part 442 (Jan. 4, 2024)
+
+This content is from the eCFR and is authoritative but unofficial.
+
+Title 40 —Protection of Environment
+Chapter I —Environmental Protection Agency
+Subchapter N —Effluent Guidelines and Standards
+Part 442 Transportation Equipment Cleaning Point Source Category
+§ 442.1
+General applicability.
+§ 442.2
+General definitions.
+§ 442.3
+General pretreatment standards.
+Subpart A Tank Trucks and Intermodal Tank Containers Transporting Chemical
+and Petroleum Cargos
+§ 442.10 Applicability.
+§ 442.11 Effluent limitations attainable by the application of the best practicable control
+technology currently available (BPT).
+§ 442.12 Effluent limitations attainable by the application of the best conventional pollutant
+control technology (BCT).
+§ 442.13 Effluent limitations attainable by the application of best available technology
+economically achievable (BAT).
+§ 442.14 New source performance standards (NSPS).
+§ 442.15 Pretreatment standards for existing sources (PSES).
+§ 442.16 Pretreatment standards for new sources (PSNS).
+Subpart B Rail Tank Cars Transporting Chemical and Petroleum Cargos
+§ 442.20 Applicability.
+§ 442.21 Effluent limitations attainable by the application of the best practicable control
+technology currently available (BPT).
+§ 442.22 Effluent limitations attainable by the application of the best conventional pollutant
+control technology (BCT).
+§ 442.23 Effluent limitations attainable by the application of best available technology
+economically achievable (BAT).
+§ 442.24 New source performance standards (NSPS).
+§ 442.25 Pretreatment standards for existing sources (PSES).
+§ 442.26 Pretreatment standards for new sources (PSNS).
+Subpart C Tank Barges and Ocean/Sea Tankers Transporting Chemical and
+Petroleum Cargos
+§ 442.30 Applicability.
+§ 442.31 Effluent limitations attainable by the application of the best practicable control
+technology currently available (BPT).
+§ 442.32 Effluent limitations attainable by the application of the best conventional pollutant
+40 CFR Part 442 (Jan. 4, 2024) (enhanced display)
+
+page 1 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR Part 442 (Jan. 4, 2024)
+
+control technology (BCT).
+§ 442.33 Effluent limitations attainable by the application of best available technology
+economically achievable (BAT).
+§ 442.34 New source performance standards (NSPS).
+§ 442.35 Pretreatment standards for existing sources (PSES).
+§ 442.36 Pretreatment standards for new sources (PSNS).
+Subpart D Tanks Transporting Food Grade Cargos
+§ 442.40 Applicability.
+§ 442.41 Effluent limitations attainable by the application of the best practicable control
+technology currently available (BPT).
+§ 442.42 Effluent limitations attainable by the application of the best conventional pollutant
+control technology (BCT).
+§ 442.43 Effluent limitations attainable by the application of best available technology
+economically achievable (BAT). [Reserved]
+§ 442.44 New source performance standards (NSPS).
+
+PART 442—TRANSPORTATION EQUIPMENT CLEANING POINT
+SOURCE CATEGORY
+Authority: 33 U.S.C. 1311, 1314, 1316, 1317, 1318, 1342 and 1361.
+Source: 65 FR 49700, Aug. 14, 2000, unless otherwise noted.
+
+§ 442.1 General applicability.
+(a) As defined more specifically in each subpart, and except for discharges specified in paragraph (b) of this
+section, this part applies to discharges resulting from cleaning the interior of tanks used to transport
+chemical, petroleum or food grade cargos. This part does not apply to facilities that clean only the
+exteriors of transportation equipment. Operations which may be subject to this part typically are reported
+under a wide variety of Standard Industrial Classification (SIC) codes. Several of the most common SIC
+codes include: SIC 7699, SIC 4741, or SIC 4491 (1987 SIC Manual).
+(b) This part is not applicable to the following discharges:
+(1) Wastewaters associated with tank cleanings operated in conjunction with other industrial,
+commercial, or Publicly Owned Treatment Works (POTW) operations, provided that the cleaning is
+limited to tanks that previously contained raw materials, by-products, or finished products that are
+associated with the facility's on-site processes.
+(2) Wastewaters resulting from cleaning the interiors of drums, intermediate bulk containers, or closedtop hoppers.
+(3) Wastewater from a facility that discharges less than 100,000 gallons per year of transportation
+equipment cleaning process wastewater.
+40 CFR 442.1(b)(3) (enhanced display)
+
+page 2 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.2
+
+§ 442.2 General definitions.
+(a) In addition to the general definitions and abbreviations at 40 CFR part 401, the following definitions shall
+apply to this part:
+Chemical cargos mean, but are not limited to, the following: latex, rubber, plastics, plasticizers, resins,
+soaps, detergents, surfactants, agricultural chemicals and pesticides, hazardous waste, organic
+chemicals including: alcohols, aldehydes, formaldehydes, phenols, peroxides, organic salts, amines,
+amides, other nitrogen compounds, other aromatic compounds, aliphatic organic chemicals, glycols,
+glycerines, and organic polymers; refractory organic compounds including: ketones, nitriles, organometallic compounds containing chromium, cadmium, mercury, copper, zinc; and inorganic chemicals
+including: aluminum sulfate, ammonia, ammonium nitrate, ammonium sulfate, and bleach. Cargos
+which are not considered to be food grade or petroleum cargos are considered to be chemical
+cargos.
+Closed-top hopper means a completely enclosed storage vessel used to transport dry bulk cargos, either by
+truck, rail, or barge. Closed-top hoppers are not designed or constructed to carry liquid cargos and
+are typically used to transport grain, soybeans, soy meal, soda ash, lime, fertilizer, plastic pellets,
+flour, sugar, and similar commodities or cargos. The cargos transported come in direct contact with
+the hopper interior. Closed-top hoppers are also commonly referred to as dry bulk hoppers.
+Drums mean metal or plastic cylindrical containers with either an open-head or a tight-head (also known as
+bung-type top) used to hold liquid, solid, or gaseous commodities or cargos which are in direct
+contact with the container interior. Drums typically range in capacity from 30 to 55 gallons.
+Food grade cargos mean edible and non-edible food products. Specific examples of food grade cargos
+include, but are not limited to, the following: alcoholic beverages, animal by-products, animal fats,
+animal oils, caramel, caramel coloring, chocolate, corn syrup and other corn products, dairy products,
+dietary supplements, eggs, flavorings, food preservatives, food products that are not suitable for
+human consumption, fruit juices, honey, lard, molasses, non-alcoholic beverages, sweeteners, tallow,
+vegetable oils, and vinegar.
+Heel means any material remaining in a tank following unloading, delivery, or discharge of the transported
+cargo. Heels may also be referred to as container residue, residual materials or residuals.
+Intermediate bulk container (“IBC” or “Tote”) means a completely enclosed storage vessel used to hold
+liquid, solid, or gaseous commodities or cargos which are in direct contact with the container
+interior. IBCs may be loaded onto flat beds for either truck or rail transport, or onto ship decks for
+water transport. IBCs are portable containers with 450 liters (119 gallons) to 3000 liters (793
+gallons) capacity. IBCs are also commonly referred to as totes or tote bins.
+Intermodal tank container means a completely enclosed storage vessel used to hold liquid, solid, or
+gaseous commodities or cargos which come in direct contact with the tank interior. Intermodal tank
+containers may be loaded onto flat beds for either truck or rail transport, or onto ship decks for water
+transport. Containers larger than 3000 liters capacity are considered intermodal tank containers.
+Containers smaller than 3000 liters capacity are considered IBCs.
+Ocean/sea tanker means a self or non-self-propelled vessel constructed or adapted to transport liquid,
+solid or gaseous commodities or cargos in bulk in cargo spaces (or tanks) through oceans and seas,
+where the commodity or cargo carried comes in direct contact with the tank interior. There are no
+maximum or minimum vessel or tank volumes.
+40 CFR 442.2(a) “Ocean/sea tanker” (enhanced display)
+
+page 3 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.2(a) “On-site”
+
+On-site means within the contiguous and non-contiguous established boundaries of a facility.
+Petroleum cargos mean products of the fractionation or straight distillation of crude oil, redistillation of
+unfinished petroleum derivatives, cracking, or other refining processes. For purposes of this rule,
+petroleum cargos also include products obtained from the refining or processing of natural gas and
+coal. For purposes of this rule, specific examples of petroleum products include but are not limited
+to: asphalt; benzene; coal tar; crude oil; cutting oil; ethyl benzene; diesel fuel; fuel additives; fuel oils;
+gasoline; greases; heavy, medium, and light oils; hydraulic fluids, jet fuel; kerosene; liquid petroleum
+gases (LPG) including butane and propane; lubrication oils; mineral spirits; naphtha; olefin, paraffin,
+and other waxes; tall oil; tar; toluene; xylene; and waste oil.
+Pollution Prevention Allowable Discharge for this subpart means the quantity of/concentrations of
+pollutants in wastewaters being discharged to publicly owned treatment works after a facility has
+demonstrated compliance with the Pollutant Management Plan provisions in § 442.15(b), §
+442.16(b), § 442.25(b), or § 442.26(b) of this part.
+Prerinse/presteam means a rinse, typically with hot or cold water, performed at the beginning of the
+cleaning sequence to remove residual material from the tank interior.
+Presolve wash means the use of diesel, kerosene, gasoline, or any other type of fuel or solvent as a tank
+interior cleaning solution.
+Rail Tank Car means a completely enclosed storage vessel pulled by a locomotive that is used to transport
+liquid, solid, or gaseous commodities or cargos over railway access lines. A rail tank car storage
+vessel may have one or more storage compartments and the stored commodities or cargos come in
+direct contact with the tank interior. There are no maximum or minimum vessel or tank volumes.
+Tank barge means a non-self-propelled vessel constructed or adapted primarily to carry liquid, solid or
+gaseous commodities or cargos in bulk in cargo spaces (or tanks) through rivers and inland
+waterways, and may occasionally carry commodities or cargos through oceans and seas when in
+transit from one inland waterway to another. The commodities or cargos transported are in direct
+contact with the tank interior. There are no maximum or minimum vessel or tank volumes.
+Tank truck means a motor-driven vehicle with a completely enclosed storage vessel used to transport
+liquid, solid or gaseous materials over roads and highways. The storage vessel or tank may be
+detachable, as with tank trailers, or permanently attached. The commodities or cargos transported
+come in direct contact with the tank interior. A tank truck may have one or more storage
+compartments. There are no maximum or minimum vessel or tank volumes. Tank trucks are also
+commonly referred to as cargo tanks or tankers.
+Transportation equipment cleaning (TEC) process wastewater means all wastewaters associated with
+cleaning the interiors of tanks including: tank trucks; rail tank cars; intermodal tank containers; tank
+barges; and ocean/sea tankers used to transport commodities or cargos that come into direct
+contact with the interior of the tank or container. At those facilities that clean tank interiors, TEC
+process wastewater also includes wastewater generated from washing vehicle exteriors, equipment
+and floor washings, TEC-contaminated stormwater, wastewater prerinse cleaning solutions,
+chemical cleaning solutions, and final rinse solutions. TEC process wastewater is defined to include
+only wastewater generated from a regulated TEC subcategory. Therefore, TEC process wastewater
+does not include wastewater generated from cleaning hopper cars, or from food grade facilities
+discharging to a POTW. Wastewater generated from cleaning tank interiors for purposes of shipping
+products (i.e., cleaned for purposes other than maintenance and repair) is considered TEC process
+40 CFR 442.2(a) “Transportation equipment cleaning (TEC) process wastewater” (enhanced display)
+
+page 4 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.2(b)
+
+wastewater. Wastewater generated from cleaning tank interiors for the purposes of maintenance
+and repair on the tank is not considered TEC process wastewater. Facilities that clean tank interiors
+solely for the purposes of repair and maintenance are not regulated under this part.
+(b) The parameters regulated in this part and listed with approved methods of analysis in Table IB at 40 CFR
+136.3, are defined as follows:
+(1) BOD5 means 5-day biochemical oxygen demand.
+(2) Cadmium means total cadmium.
+(3) Chromium means total chromium.
+(4) Copper means total copper.
+(5) Lead means total lead.
+(6) Mercury means total mercury
+(7) Nickel means total nickel.
+(8) Oil and Grease (HEM) means oil and grease (Hexane-Extractable Material) measured by Method
+1664.
+(9) Non-polar material (SGT-HEM) means the non-polar fraction of oil and grease (Silica Gel Treated
+Hexane-Extractable Material) measured by Method 1664.
+(10) TSS means total suspended solids.
+(11) Zinc means total zinc.
+(c) The parameters regulated in this part and listed with approved methods of analysis in Table IC at 40 CFR
+136.3, are as follows:
+(1) Fluoranthene.
+(2) Phenanthrene.
+
+§ 442.3 General pretreatment standards.
+Any source subject to this part that introduces process wastewater pollutants into a publicly owned treatment
+works (POTW) must comply with 40 CFR part 403.
+
+Subpart A—Tank Trucks and Intermodal Tank Containers Transporting Chemical and
+Petroleum Cargos
+§ 442.10 Applicability.
+This subpart applies to discharges resulting from the cleaning of tank trucks and intermodal tank containers which
+have been used to transport chemical or petroleum cargos.
+
+§ 442.11 Effluent limitations attainable by the application of the best practicable control
+technology currently available (BPT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BPT:
+40 CFR 442.11 (enhanced display)
+
+page 5 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.11(a)
+
+(a) Effluent Limitations
+Regulated parameter
+
+Maximum daily1
+
+Maximum monthly avg.1
+
+BOD5
+
+61
+
+22
+
+TSS
+
+58
+
+26
+
+Oil and grease (HEM)
+
+36
+
+16
+
+Copper
+
+0.84
+
+Mercury
+
+0.0031
+( 2)
+
+pH
+
+( 2)
+
+1 Mg/L (ppm)
+2 Within 6 to 9 at all times.
+
+§ 442.12 Effluent limitations attainable by the application of the best conventional pollutant
+control technology (BCT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BCT: Limitations for BOD5, TSS, oil and grease
+(HEM) and pH are the same as the corresponding limitation specified in § 442.11.
+
+§ 442.13 Effluent limitations attainable by the application of best available technology
+economically achievable (BAT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BAT: Limitations for copper, mercury, and oil and
+grease (HEM) are the same as the corresponding limitation specified in § 442.11.
+
+§ 442.14 New source performance standards (NSPS).
+Any new point source subject to this subpart must achieve the following performance standards: Standards for
+BOD5, TSS, oil and grease (HEM), copper, mercury, and pH are the same as the corresponding limitation specified in
+§ 442.11.
+
+§ 442.15 Pretreatment standards for existing sources (PSES).
+(a) Except as provided in 40 CFR 403.7 and 403.13 or in paragraph (b) of this section, no later than August 14,
+2003, any existing source subject to this subpart which introduces pollutants into a publicly owned
+treatment works must achieve PSES as follows:
+
+40 CFR 442.15(a) (enhanced display)
+
+page 6 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.15(b)
+
+Table—Pretreatment Standards
+Regulated parameter
+Non-polar material (SGT-HEM)
+
+Maximum daily1
+26
+
+Copper
+
+0.84
+
+Mercury
+
+0.0031
+
+1 Mg/L (ppm).
+
+(b) As an alternative to achieving PSES as defined in paragraph (a) of this section, any existing source subject
+to paragraph (a) of this section may have a pollution prevention allowable discharge of wastewater
+pollutants, as defined in § 442.2, if the source agrees to control mechanism with the control authority as
+follows:
+(1) The discharger shall prepare a Pollutant Management Plan that satisfies the requirements as
+specified in paragraph (b)(5) of this section, and the discharger shall conduct its operations in
+accordance with that plan.
+(2) The discharger shall notify its local control authority prior to renewing or modifying its individual
+control mechanism or pretreatment agreement of its intent to achieve the pollution prevention
+allowable discharge pretreatment standard by submitting to the local control authority a certification
+statement of its intent to utilize a Pollutant Management Plan as specified in paragraph (b)(1) of this
+section. The certification statement must be signed by the responsible corporate officer as defined
+in 40 CFR 403.12(l);
+(3) The discharger shall submit a copy of its Pollutant Management Plan as described in paragraph
+(b)(1) of this section to the appropriate control authority at the time he/she applies to renew, or
+modify its individual control mechanism or pretreatment agreement; and
+(4) The discharger shall maintain at the offices of the facility and make available for inspection the
+Pollutant Management Plan as described in paragraph (b)(1) of this section.
+(5) The Pollutant Manager Plan shall include:
+(i)
+
+Procedures for identifying cargos, the cleaning of which is likely to result in discharges of
+pollutants that would be incompatible with treatment at the POTW;
+
+(ii) For cargos identified as being incompatible with treatment at the POTW, the Plan shall provide
+that heels be fully drained, segregated from other wastewaters, and handled in an appropriate
+manner;
+(iii) For cargos identified as being incompatible with treatment at the POTW, the Plan shall provide
+that the tank be prerinsed or presteamed as appropriate and the wastewater segregated from
+wastewaters to be discharged to the POTW and handled in an appropriate manner, where
+necessary to ensure that they do not cause or contribute to a discharge that would be
+incompatible with treatment at the POTW;
+
+40 CFR 442.15(b)(5)(iii) (enhanced display)
+
+page 7 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.15(b)(5)(iv)
+
+(iv) All spent cleaning solutions, including interior caustic washes, interior presolve washes, interior
+detergent washes, interior acid washes, and exterior acid brightener washes shall be
+segregated from other wastewaters and handled in an appropriate manner, where necessary to
+ensure that they do not cause or contribute to a discharge that would be incompatible with
+treatment at the POTW;
+(v) Provisions for appropriate recycling or reuse of cleaning agents;
+(vi) Provisions for minimizing the use of toxic cleaning agents (solvents, detergents, or other
+cleaning or brightening solutions);
+(vii) Provisions for appropriate recycling or reuse of segregated wastewaters (including heels and
+prerinse/pre-steam wastes);
+(viii) Provisions for off-site treatment or disposal, or effective pre-treatment of segregated
+wastewaters (including heels, prerinse/pre-steam wastes, spent cleaning solutions);
+(ix) Information on the volumes, content, and chemical characteristics of cleaning agents used in
+cleaning or brightening operations; and
+(x) Provisions for maintaining appropriate records of heel management procedures, prerinse/presteam management procedures, cleaning agent management procedures, operator training,
+and proper operation and maintenance of any pre-treatment system;
+
+§ 442.16 Pretreatment standards for new sources (PSNS).
+(a) Except as provided in 40 CFR 403.7 and 403.13 or in paragraph (b) of this section, any new source subject
+to this subpart which introduces pollutants into a publicly owned treatment works must achieve PSNS as
+follows:
+
+Table—Pretreatment Standards
+Regulated parameter
+Non-polar material (SGT-HEM)
+
+Maximum daily1
+26
+
+Copper
+
+0.84
+
+Mercury
+
+0.0031
+
+1 Mg/L (ppm).
+
+(b) As an alternative to achieving PSNS as defined in paragraph (a) of this section, any new source subject to
+paragraph (a) of this section may have a pollution prevention allowable discharge of wastewater
+pollutants, as defined in § 442.2, if the source agrees to a control mechanism with the control authority as
+follows:
+(1) The discharger shall prepare a Pollutant Management Plan that satisfies the requirements as
+specified in paragraph (b)(5) of this section, and the discharger shall conduct its operations in
+accordance with that plan.
+(2) The discharger shall notify its local control authority prior to obtaining, renewing, or modifying its
+individual control mechanism or pretreatment agreement of its intent to achieve the pollution
+prevention allowable discharge pretreatment standard by submitting to the local control authority a
+40 CFR 442.16(b)(2) (enhanced display)
+
+page 8 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.16(b)(3)
+
+certification statement of its intent to utilize a Pollutant Management Plan as specified in paragraph
+(b)(1) of this section. The certification statement must be signed by the responsible corporate officer
+as defined in 40 CFR 403.12(l);
+(3) The discharger shall submit a copy of its Pollutant Management Plan as described in paragraph
+(b)(1) of this section to the appropriate control authority at the time he/she applies to renew, or
+modify its individual control mechanism or pretreatment agreement; and
+(4) The discharger shall maintain at the offices of the facility and make available for inspection the
+Pollutant Management Plan as described in paragraph (b)(1) of this section.
+(5) The Pollutant Management Plan shall include:
+(i)
+
+Procedures for identifying cargos, the cleaning of which is likely to result in discharges of
+pollutants that would be incompatible with treatment at the POTW;
+
+(ii) For cargos identified as being incompatible with treatment at the POTW, the Plan shall provide
+that heels be fully drained, segregated from other wastewaters, and handled in an appropriate
+manner;
+(iii) For cargos identified as being incompatible with treatment at the POTW, the Plan shall provide
+that the tank be prerinsed or presteamed as appropriate and the wastewater segregated from
+wastewaters to be discharged to the POTW and handled in an appropriate manner, where
+necessary to ensure that they do not cause or contribute to a discharge that would be
+incompatible with treatment at the POTW;
+(iv) All spent cleaning solutions, including interior caustic washes, interior presolve washes, interior
+detergent washes, interior acid washes, and exterior acid brightener washes shall be
+segregated from other wastewaters and handled in an appropriate manner, where necessary to
+ensure that they do not cause or contribute to a discharge that would be incompatible with
+treatment at the POTW;
+(v) Provisions for appropriate recycling or reuse of cleaning agents;
+(vi) Provisions for minimizing the use of toxic cleaning agents (solvents, detergents, or other
+cleaning or brightening solutions);
+(vii) Provisions for appropriate recycling or reuse of segregated wastewaters (including heels and
+prerinse/pre-steam wastes);
+(viii) Provisions for off-site treatment or disposal, or effective pre-treatment of segregated
+wastewaters (including heels, prerinse/pre-steam wastes, spent cleaning solutions);
+(ix) Information on the volumes, content, and chemical characteristics of cleaning agents used in
+cleaning or brightening operations; and
+(x) Provisions for maintaining appropriate records of heel management procedures, prerinse/presteam management procedures, cleaning agent management procedures, operator training,
+and proper operation and maintenance of any pre-treatment system.
+[65 FR 49700, Aug. 14, 2000, as amended at 70 FR 5061, Feb. 1, 2005]
+
+Subpart B—Rail Tank Cars Transporting Chemical and Petroleum Cargos
+40 CFR 442.16(b)(5)(x) (enhanced display)
+
+page 9 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.20
+
+§ 442.20 Applicability.
+This subpart applies to discharges resulting from the cleaning of rail tank cars which have been used to transport
+chemical or petroleum cargos.
+
+§ 442.21 Effluent limitations attainable by the application of the best practicable control
+technology currently available (BPT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BPT:
+
+Table—Effluent Limitations
+Regulated parameter
+
+Maximum daily1
+
+Maximum monthly avg.1
+
+BOD5
+
+61
+
+22
+
+TSS
+
+58
+
+26
+
+Oil and grease (HEM)
+
+36
+
+16
+
+Fluoranthene
+
+0.076
+
+Phenanthrene
+
+0.34
+
+pH
+
+( 2)
+
+( 2)
+
+1 Mg/L (ppm).
+2 Within 6 to 9 at all times.
+
+§ 442.22 Effluent limitations attainable by the application of the best conventional pollutant
+control technology (BCT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BCT: Limitations for BOD5, TSS, oil and grease
+(HEM) and pH are the same as the corresponding limitation specified in § 442.21.
+
+§ 442.23 Effluent limitations attainable by the application of best available technology
+economically achievable (BAT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BAT: Limitations for fluoranthene, phenanthrene,
+and oil and grease (HEM) are the same as the corresponding limitation specified in § 442.21.
+
+§ 442.24 New source performance standards (NSPS).
+Any new point source subject to this subpart must achieve the following performance standards: Standards for
+BOD5, TSS, oil and grease (HEM), fluoranthene, phenanthrene and pH are the same as the corresponding limitation
+specified in § 442.21.
+
+40 CFR 442.24 (enhanced display)
+
+page 10 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.25
+
+§ 442.25 Pretreatment standards for existing sources (PSES).
+(a) Except as provided in 40 CFR 403.7 and 403.13 or in paragraph (b) of this section, no later than August 14,
+2003 any existing source subject to this subpart which introduces pollutants into a publicly owned
+treatment works must achieve PSES as follows:
+
+Table—Pretreatment Standards'
+Regulated parameter
+Non-polar material (SGT-HEM)
+
+Maximum daily1
+26
+
+Fluoranthene
+
+0.076
+
+Phenanthrene
+
+0.34
+
+1 Mg/L (ppm).
+
+(b) As an alternative to achieving PSES as defined in paragraph (a) of this section, any existing source subject
+to paragraph (a) of this section may have a pollution prevention allowable discharge of wastewater
+pollutants, as defined in § 442.2, if the source agrees to a control mechanism with the control authority as
+follows:
+(1) The discharger shall prepare a Pollutant Management Plan that satisfies the requirements as
+specified in paragraph (b)(5) of this section, and the discharger shall conduct its operations in
+accordance with that plan.
+(2) The discharger shall notify its local control authority prior to renewing or modifying its individual
+control mechanism or pretreatment agreement of its intent to achieve the pollution prevention
+allowable discharge pretreatment standard by submitting to the local control authority a certification
+statement of its intent to utilize a Pollutant Management Plan as specified in paragraph (b)(1) of this
+section. The certification statement must be signed by the responsible corporate officer as defined
+in 40 CFR 403.12(l);
+(3) The discharger shall submit a copy of its Pollutant Management Plan as described in paragraph
+(b)(1) of this section to the appropriate control authority at the time he/she applies to renew, or
+modify its individual control mechanism or pretreatment agreement; and
+(4) The discharger shall maintain at the offices of the facility and make available for inspection the
+Pollutant Management Plan as described in paragraph (b)(1) of this section.
+(5) The Pollutant Management Plan shall include:
+(i)
+
+Procedures for identifying cargos, the cleaning of which is likely to result in discharges of
+pollutants that would be incompatible with treatment at the POTW;
+
+(ii) For cargos identified as being incompatible with treatment at the POTW, the Plan shall provide
+that heels be fully drained, segregated from other wastewaters, and handled in an appropriate
+manner;
+
+40 CFR 442.25(b)(5)(ii) (enhanced display)
+
+page 11 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.25(b)(5)(iii)
+
+(iii) For cargos identified as being incompatible with treatment at the POTW, the Plan shall provide
+that the tank be prerinsed or presteamed as appropriate and the wastewater segregated from
+wastewaters to be discharged to the POTW and handled in an appropriate manner, where
+necessary to ensure that they do not cause or contribute to a discharge that would be
+incompatible with treatment at the POTW;
+(iv) All spent cleaning solutions, including interior caustic washes, interior presolve washes, interior
+detergent washes, interior acid washes, and exterior acid brightener washes shall be
+segregated from other wastewaters and handled in an appropriate manner, where necessary to
+ensure that they do not cause or contribute to a discharge that would be incompatible with
+treatment at the POTW;
+(v) Provisions for appropriate recycling or reuse of cleaning agents;
+(vi) Provisions for minimizing the use of toxic cleaning agents (solvents, detergents, or other
+cleaning or brightening solutions);
+(vii) Provisions for appropriate recycling or reuse of segregated wastewaters (including heels and
+prerinse/pre-steam wastes);
+(viii) Provisions for off-site treatment or disposal, or effective pre-treatment of segregated
+wastewaters (including heels, prerinse/pre-steam wastes, spent cleaning solutions);
+(ix) Information on the volumes, content, and chemical characteristics of cleaning agents used in
+cleaning or brightening operations; and
+(x) Provisions for maintaining appropriate records of heel management procedures, prerinse/presteam management procedures, cleaning agent management procedures, operator training,
+and proper operation and maintenance of any pre-treatment system;
+
+§ 442.26 Pretreatment standards for new sources (PSNS).
+(a) Except as provided in 40 CFR 403.7 and 403.13 or in paragraph (b) of this section, any new source subject
+to this subpart which introduces pollutants into a publicly owned treatment works must achieve PSNS as
+follows:
+
+Table—Pretreatment Standards
+Regulated parameter
+Non-polar material (SGT-HEM)
+
+Maximum daily1
+26
+
+Fluoranthene
+
+0.076
+
+Phenanthrene
+
+0.34
+
+1 Mg/L (ppm).
+
+(b) As an alternative to achieving PSNS as defined in paragraph (a) of this section, any new source subject to
+paragraph (a) of this section may have a pollution prevention allowable discharge of wastewater
+pollutants, as defined in § 442.2, if the source agrees to a control mechanism with the control authority as
+follows:
+
+40 CFR 442.26(b) (enhanced display)
+
+page 12 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.26(b)(1)
+
+(1) The discharger shall prepare a Pollutant Management Plan that satisfies the requirements as
+specified in paragraph (b)(5) of this section, and the discharger shall conduct its operations in
+accordance with that plan.
+(2) The discharger shall notify its local control authority prior to obtaining, renewing, or modifying its
+individual control mechanism or pretreatment agreement of its intent to achieve the pollution
+prevention allowable discharge pretreatment standard by submitting to the local control authority a
+certification statement of its intent to utilize a Pollutant Management Plan as specified in paragraph
+(b)(1) of this section. The certification statement must be signed by the responsible corporate officer
+as defined in 40 CFR 403.12(l);
+(3) The discharger shall submit a copy of its Pollutant Management Plan as described in paragraph
+(b)(1) of this section to the appropriate control authority at the time he/she applies to obtain, renew,
+or modify its individual control mechanism or pretreatment agreement; and
+(4) The discharger shall maintain at the offices of the facility and make available for inspection the
+Pollutant Management Plan as described in paragraph (b)(1) of this section.
+(5) The Pollutant Management Plan shall include:
+(i)
+
+Procedures for identifying cargos, the cleaning of which is likely to result in discharges of
+pollutants that would be incompatible with treatment at the POTW;
+
+(ii) For cargos identified as being incompatible with treatment at the POTW, the Plan shall provide
+that heels be fully drained, segregated from other wastewaters, and handled in an appropriate
+manner;
+(iii) For cargos identified as being incompatible with treatment at the POTW, the Plan shall provide
+that the tank be prerinsed or presteamed as appropriate and the wastewater segregated from
+wastewaters to be discharged to the POTW and handled in an appropriate manner, where
+necessary to ensure that they do not cause or contribute to a discharge that would be
+incompatible with treatment at the POTW;
+(iv) All spent cleaning solutions, including interior caustic washes, interior presolve washes, interior
+detergent washes, interior acid washes, and exterior acid brightener washes shall be
+segregated from other wastewaters and handled in an appropriate manner, where necessary to
+ensure that they do not cause or contribute to a discharge that would be incompatible with
+treatment at the POTW;
+(v) Provisions for appropriate recycling or reuse of cleaning agents;
+(vi) Provisions for minimizing the use of toxic cleaning agents (solvents, detergents, or other
+cleaning or brightening solutions);
+(vii) Provisions for appropriate recycling or reuse of segregated wastewaters (including heels and
+prerinse/pre-steam wastes);
+(viii) Provisions for off-site treatment or disposal, or effective pre-treatment of segregated
+wastewaters (including heels, prerinse/pre-steam wastes, spent cleaning solutions);
+(ix) Information on the volumes, content, and chemical characteristics of cleaning agents used in
+cleaning or brightening operations; and
+
+40 CFR 442.26(b)(5)(ix) (enhanced display)
+
+page 13 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.26(b)(5)(x)
+
+(x) Provisions for maintaining appropriate records of heel management procedures, prerinse/presteam management procedures, cleaning agent management procedures, operator training,
+and proper operation and maintenance of any pre-treatment system;
+
+Subpart C—Tank Barges and Ocean/Sea Tankers Transporting Chemical and Petroleum Cargos
+§ 442.30 Applicability.
+This subpart applies to discharges resulting from the cleaning of tank barges or ocean/sea tankers which have
+been used to transport chemical or petroleum cargos.
+
+§ 442.31 Effluent limitations attainable by the application of the best practicable control
+technology currently available (BPT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BPT:
+
+Table—Effluent Limitations
+Regulated parameter
+
+Maximum daily1
+
+Maximum monthly avg.1
+
+BOD5
+
+61
+
+22
+
+TSS
+
+58
+
+26
+
+Oil and grease (HEM)
+
+36
+
+16
+
+Cadmium
+
+0.020
+
+Chromium
+
+0.42
+
+Copper
+
+0.10
+
+Lead
+
+0.14
+
+Mercury
+
+0.0013
+
+Nickel
+
+0.58
+
+Zinc
+
+8.3
+
+pH
+
+( 2)
+
+( 2)
+
+1 Mg/L (ppm).
+2 Within 6 to 9 at all times.
+
+§ 442.32 Effluent limitations attainable by the application of the best conventional pollutant
+control technology (BCT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BCT: Limitations for BOD5, TSS, oil and grease
+(HEM) and pH are the same as the corresponding limitation specified in § 442.31.
+
+40 CFR 442.32 (enhanced display)
+
+page 14 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.33
+
+§ 442.33 Effluent limitations attainable by the application of best available technology
+economically achievable (BAT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BAT: Limitations for cadmium, chromium, copper,
+lead, mercury, nickel, and zinc are the same as the corresponding limitation specified in § 442.31.
+
+§ 442.34 New source performance standards (NSPS).
+Any new point source subject to this subpart must achieve the following performance standards: Standards for
+BOD5, TSS, oil and grease (HEM), cadmium, chromium, copper, lead, mercury, nickel, zinc and pH are the same as
+the corresponding limitation specified in § 442.31.
+
+§ 442.35 Pretreatment standards for existing sources (PSES).
+Except as provided in 40 CFR 403.7 and 403.13, any existing source subject to this subpart must achieve the
+following pretreatment standards:
+
+Table—Pretreatment Standards
+Regulated parameter
+Non-polar material (SGT-HEM)
+
+Maximum daily1
+26
+
+Cadmium
+
+0.020
+
+Chromium
+
+0.42
+
+Copper
+
+0.10
+
+Lead
+
+0.14
+
+Mercury
+
+0.0013
+
+Nickel
+
+0.58
+
+Zinc
+
+8.3
+
+1
+
+Mg/L (ppm).
+
+§ 442.36 Pretreatment standards for new sources (PSNS).
+Except as provided in 40 CFR 403.7, any new source subject to this subpart must achieve the following
+pretreatment standards: Standards for non-polar materials (SGT-HEM), cadmium, chromium, copper, lead, mercury,
+nickel and zinc are the same as the corresponding standard specified in § 442.35.
+
+Subpart D—Tanks Transporting Food Grade Cargos
+§ 442.40 Applicability.
+This subpart applies to discharges resulting from the cleaning of tank trucks, intermodal tank containers, rail tank
+cars, tank barges and ocean/sea tankers which have been used to transport food grade cargos. If wastewater
+generated from cleaning tanks used to transport food grade cargos is mixed with wastewater resulting from
+cleaning tanks used to transport chemical or petroleum cargos, then the combined wastewater is subject to the
+provisions established for the corresponding tanks (i.e., truck, railcar or barge) in subparts A, B, or C of this part.
+40 CFR 442.40 (enhanced display)
+
+page 15 of 16
+
+40 CFR Part 442 (up to date as of 1/04/2024)
+Transportation Equipment Cleaning Point Source Category
+
+40 CFR 442.41
+
+§ 442.41 Effluent limitations attainable by the application of the best practicable control
+technology currently available (BPT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BPT:
+
+Table—Effluent Limitations
+Regulated parameter
+
+Maximum daily1
+
+Maximum monthly avg.1
+
+BOD5
+
+56
+
+24
+
+TSS
+
+230
+
+86
+
+Oil and grease (HEM)
+
+20
+
+8.8
+
+pH
+
+2
+
+( 2)
+
+1
+
+( )
+
+Mg/L (ppm).
+
+2 Within 6 to 9 at all times.
+
+§ 442.42 Effluent limitations attainable by the application of the best conventional pollutant
+control technology (BCT).
+Except as provided in 40 CFR 125.30 through 125.32, any existing point source subject to this subpart must achieve
+the following effluent limitations representing the application of BCT: Limitations for BOD5, TSS, oil & grease (HEM)
+and pH are the same as the corresponding limitation specified in § 442.41.
+
+§ 442.43 Effluent limitations attainable by the application of best available technology
+economically achievable (BAT). [Reserved]
+§ 442.44 New source performance standards (NSPS).
+Any new point source subject to this subpart must achieve the following performance standards: Standards for
+BOD5, TSS, oil and grease (HEM) and pH are the same as the corresponding limitation specified in § 442.41.
+
+40 CFR 442.44 (enhanced display)
+
+page 16 of 16
+
+

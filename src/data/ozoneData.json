@@ -1,0 +1,1522 @@
+[
+  {
+    "date": "2023-01-01",
+    "aqiAvg": 19.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-02",
+    "aqiAvg": 8.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-03",
+    "aqiAvg": 0.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-04",
+    "aqiAvg": 4.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-05",
+    "aqiAvg": 7.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-06",
+    "aqiAvg": 12,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-07",
+    "aqiAvg": 13.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-08",
+    "aqiAvg": 15.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-09",
+    "aqiAvg": 14.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-10",
+    "aqiAvg": 13.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-11",
+    "aqiAvg": 14.714285714285714,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-12",
+    "aqiAvg": 23.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-13",
+    "aqiAvg": 15.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-14",
+    "aqiAvg": 19.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-15",
+    "aqiAvg": 21.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-16",
+    "aqiAvg": 18.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-17",
+    "aqiAvg": 6.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-18",
+    "aqiAvg": 8.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-19",
+    "aqiAvg": 8.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-20",
+    "aqiAvg": 11.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-21",
+    "aqiAvg": 15.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-22",
+    "aqiAvg": 14.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-23",
+    "aqiAvg": 17.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-24",
+    "aqiAvg": 19.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-25",
+    "aqiAvg": 23.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-26",
+    "aqiAvg": 17.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-27",
+    "aqiAvg": 13.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-28",
+    "aqiAvg": 18.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-29",
+    "aqiAvg": 15.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-30",
+    "aqiAvg": 9.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-01-31",
+    "aqiAvg": 19.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-01",
+    "aqiAvg": 20.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-02",
+    "aqiAvg": 17.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-03",
+    "aqiAvg": 22.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-04",
+    "aqiAvg": 20.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-05",
+    "aqiAvg": 13.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-06",
+    "aqiAvg": 19.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-07",
+    "aqiAvg": 17.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-08",
+    "aqiAvg": 22.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-09",
+    "aqiAvg": 18.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-10",
+    "aqiAvg": 22.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-11",
+    "aqiAvg": 22.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-12",
+    "aqiAvg": 13.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-13",
+    "aqiAvg": 24,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-14",
+    "aqiAvg": 25.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-15",
+    "aqiAvg": 24.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-16",
+    "aqiAvg": 13.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-17",
+    "aqiAvg": 21.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-18",
+    "aqiAvg": 22.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-19",
+    "aqiAvg": 22.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-20",
+    "aqiAvg": 19.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-21",
+    "aqiAvg": 18,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-22",
+    "aqiAvg": 20.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-23",
+    "aqiAvg": 17.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-24",
+    "aqiAvg": 24,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-25",
+    "aqiAvg": 21.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-26",
+    "aqiAvg": 17.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-27",
+    "aqiAvg": 24.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-02-28",
+    "aqiAvg": 19.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-01",
+    "aqiAvg": 21.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-02",
+    "aqiAvg": 25.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-03",
+    "aqiAvg": 25.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-04",
+    "aqiAvg": 23.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-05",
+    "aqiAvg": 28.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-06",
+    "aqiAvg": 25.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-07",
+    "aqiAvg": 27.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-08",
+    "aqiAvg": 23.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-09",
+    "aqiAvg": 25.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-10",
+    "aqiAvg": 22.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-11",
+    "aqiAvg": 22.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-12",
+    "aqiAvg": 25.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-13",
+    "aqiAvg": 22.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-14",
+    "aqiAvg": 22.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-15",
+    "aqiAvg": 27.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-16",
+    "aqiAvg": 28.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-17",
+    "aqiAvg": 22.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-18",
+    "aqiAvg": 28.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-19",
+    "aqiAvg": 25.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-20",
+    "aqiAvg": 20.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-21",
+    "aqiAvg": 25.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-22",
+    "aqiAvg": 25.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-23",
+    "aqiAvg": 22.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-24",
+    "aqiAvg": 24,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-25",
+    "aqiAvg": 22,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-26",
+    "aqiAvg": 33,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-27",
+    "aqiAvg": 28.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-28",
+    "aqiAvg": 28.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-29",
+    "aqiAvg": 30,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-30",
+    "aqiAvg": 29.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-03-31",
+    "aqiAvg": 28.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-01",
+    "aqiAvg": 31.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-02",
+    "aqiAvg": 33,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-03",
+    "aqiAvg": 31.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-04",
+    "aqiAvg": 25.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-05",
+    "aqiAvg": 27.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-06",
+    "aqiAvg": 28.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-07",
+    "aqiAvg": 30.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-08",
+    "aqiAvg": 32.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-09",
+    "aqiAvg": 31.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-10",
+    "aqiAvg": 31.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-11",
+    "aqiAvg": 36,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-12",
+    "aqiAvg": 48,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-13",
+    "aqiAvg": 72.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-14",
+    "aqiAvg": 56.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-15",
+    "aqiAvg": 20.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-16",
+    "aqiAvg": 25.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-17",
+    "aqiAvg": 30,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-18",
+    "aqiAvg": 27.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-19",
+    "aqiAvg": 31.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-20",
+    "aqiAvg": 23.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-21",
+    "aqiAvg": 32.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-22",
+    "aqiAvg": 24.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-23",
+    "aqiAvg": 31.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-24",
+    "aqiAvg": 30,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-25",
+    "aqiAvg": 27.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-26",
+    "aqiAvg": 31.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-27",
+    "aqiAvg": 30,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-28",
+    "aqiAvg": 31.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-29",
+    "aqiAvg": 28.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-04-30",
+    "aqiAvg": 25.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-01",
+    "aqiAvg": 25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-02",
+    "aqiAvg": 18.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-03",
+    "aqiAvg": 18,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-04",
+    "aqiAvg": 21.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-05",
+    "aqiAvg": 23.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-06",
+    "aqiAvg": 27.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-07",
+    "aqiAvg": 32.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-08",
+    "aqiAvg": 29.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-09",
+    "aqiAvg": 30.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-10",
+    "aqiAvg": 32.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-11",
+    "aqiAvg": 40.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-12",
+    "aqiAvg": 53.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-13",
+    "aqiAvg": 37.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-14",
+    "aqiAvg": 30,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-15",
+    "aqiAvg": 34.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-16",
+    "aqiAvg": 40.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-17",
+    "aqiAvg": 29.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-18",
+    "aqiAvg": 27,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-19",
+    "aqiAvg": 28.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-20",
+    "aqiAvg": 17.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-21",
+    "aqiAvg": 26.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-22",
+    "aqiAvg": 27.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-23",
+    "aqiAvg": 24.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-24",
+    "aqiAvg": 27.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-25",
+    "aqiAvg": 23.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-26",
+    "aqiAvg": 30,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-27",
+    "aqiAvg": 36.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-28",
+    "aqiAvg": 33.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-29",
+    "aqiAvg": 34.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-30",
+    "aqiAvg": 28.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-05-31",
+    "aqiAvg": 28.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-01",
+    "aqiAvg": 45.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-02",
+    "aqiAvg": 72,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-03",
+    "aqiAvg": 21.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-04",
+    "aqiAvg": 22.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-05",
+    "aqiAvg": 25.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-06",
+    "aqiAvg": 35.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-07",
+    "aqiAvg": 26.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-08",
+    "aqiAvg": 25.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-09",
+    "aqiAvg": 22.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-10",
+    "aqiAvg": 24.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-11",
+    "aqiAvg": 54,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-12",
+    "aqiAvg": 34.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-13",
+    "aqiAvg": 42,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-14",
+    "aqiAvg": 32.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-15",
+    "aqiAvg": 30,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-16",
+    "aqiAvg": 37.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-17",
+    "aqiAvg": 30.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-18",
+    "aqiAvg": 26.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-19",
+    "aqiAvg": 30.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-20",
+    "aqiAvg": 26.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-21",
+    "aqiAvg": 22.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-22",
+    "aqiAvg": 22.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-23",
+    "aqiAvg": 15,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-24",
+    "aqiAvg": 22.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-25",
+    "aqiAvg": 31.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-26",
+    "aqiAvg": 28.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-27",
+    "aqiAvg": 36.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-28",
+    "aqiAvg": 33,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-29",
+    "aqiAvg": 36.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-06-30",
+    "aqiAvg": 103.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-01",
+    "aqiAvg": 82.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-02",
+    "aqiAvg": 36.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-03",
+    "aqiAvg": 48.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-04",
+    "aqiAvg": 28.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-05",
+    "aqiAvg": 61.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-06",
+    "aqiAvg": 40.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-07",
+    "aqiAvg": 35.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-08",
+    "aqiAvg": 35.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-09",
+    "aqiAvg": 22.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-10",
+    "aqiAvg": 28.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-11",
+    "aqiAvg": 60.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-12",
+    "aqiAvg": 76.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-13",
+    "aqiAvg": 36.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-14",
+    "aqiAvg": 32.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-15",
+    "aqiAvg": 36.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-16",
+    "aqiAvg": 17.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-17",
+    "aqiAvg": 74.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-18",
+    "aqiAvg": 29.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-19",
+    "aqiAvg": 43.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-20",
+    "aqiAvg": 43.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-21",
+    "aqiAvg": 55.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-22",
+    "aqiAvg": 25.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-23",
+    "aqiAvg": 36.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-24",
+    "aqiAvg": 34.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-25",
+    "aqiAvg": 34.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-26",
+    "aqiAvg": 71.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-27",
+    "aqiAvg": 53.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-28",
+    "aqiAvg": 52.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-29",
+    "aqiAvg": 44.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-30",
+    "aqiAvg": 19.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-07-31",
+    "aqiAvg": 28.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-01",
+    "aqiAvg": 25.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-02",
+    "aqiAvg": 29.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-03",
+    "aqiAvg": 31.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-04",
+    "aqiAvg": 28.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-05",
+    "aqiAvg": 32.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-06",
+    "aqiAvg": 40.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-07",
+    "aqiAvg": 31.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-08",
+    "aqiAvg": 22.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-09",
+    "aqiAvg": 28.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-10",
+    "aqiAvg": 23.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-11",
+    "aqiAvg": 34.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-12",
+    "aqiAvg": 35.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-13",
+    "aqiAvg": 31.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-14",
+    "aqiAvg": 34.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-15",
+    "aqiAvg": 24.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-16",
+    "aqiAvg": 30.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-17",
+    "aqiAvg": 24,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-18",
+    "aqiAvg": 30.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-19",
+    "aqiAvg": 24.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-20",
+    "aqiAvg": 42,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-21",
+    "aqiAvg": 34.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-22",
+    "aqiAvg": 23.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-23",
+    "aqiAvg": 26.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-24",
+    "aqiAvg": 20.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-25",
+    "aqiAvg": 16.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-26",
+    "aqiAvg": 24.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-27",
+    "aqiAvg": 22.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-28",
+    "aqiAvg": 22.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-29",
+    "aqiAvg": 26.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-30",
+    "aqiAvg": 28.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-08-31",
+    "aqiAvg": 22.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-01",
+    "aqiAvg": 28.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-02",
+    "aqiAvg": 36.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-03",
+    "aqiAvg": 37.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-04",
+    "aqiAvg": 31.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-05",
+    "aqiAvg": 36.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-06",
+    "aqiAvg": 56.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-07",
+    "aqiAvg": 63.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-08",
+    "aqiAvg": 30.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-09",
+    "aqiAvg": 25.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-10",
+    "aqiAvg": 20.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-11",
+    "aqiAvg": 23.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-12",
+    "aqiAvg": 35.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-13",
+    "aqiAvg": 26.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-14",
+    "aqiAvg": 24.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-15",
+    "aqiAvg": 17.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-16",
+    "aqiAvg": 21.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-17",
+    "aqiAvg": 33.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-18",
+    "aqiAvg": 19.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-19",
+    "aqiAvg": 20.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-20",
+    "aqiAvg": 29.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-21",
+    "aqiAvg": 25.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-22",
+    "aqiAvg": 19.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-23",
+    "aqiAvg": 18.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-24",
+    "aqiAvg": 22.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-25",
+    "aqiAvg": 22.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-26",
+    "aqiAvg": 13.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-27",
+    "aqiAvg": 24.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-28",
+    "aqiAvg": 18.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-29",
+    "aqiAvg": 15.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-09-30",
+    "aqiAvg": 16.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-01",
+    "aqiAvg": 22.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-02",
+    "aqiAvg": 26.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-03",
+    "aqiAvg": 30.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-04",
+    "aqiAvg": 34.125,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-05",
+    "aqiAvg": 24.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-06",
+    "aqiAvg": 14.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-07",
+    "aqiAvg": 21.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-08",
+    "aqiAvg": 14.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-09",
+    "aqiAvg": 17.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-10",
+    "aqiAvg": 16.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-11",
+    "aqiAvg": 26.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-12",
+    "aqiAvg": 27.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-13",
+    "aqiAvg": 12.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-14",
+    "aqiAvg": 11.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-15",
+    "aqiAvg": 14.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-16",
+    "aqiAvg": 13.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-17",
+    "aqiAvg": 14.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-18",
+    "aqiAvg": 10.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-19",
+    "aqiAvg": 23.25,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-20",
+    "aqiAvg": 17.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-21",
+    "aqiAvg": 16.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-22",
+    "aqiAvg": 19.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-23",
+    "aqiAvg": 15.75,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-24",
+    "aqiAvg": 17.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-25",
+    "aqiAvg": 11.571428571428571,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-26",
+    "aqiAvg": 17.625,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-27",
+    "aqiAvg": 12,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-28",
+    "aqiAvg": 24.375,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-29",
+    "aqiAvg": 11.5,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-30",
+    "aqiAvg": 16.875,
+    "eventType": "No Events"
+  },
+  {
+    "date": "2023-10-31",
+    "aqiAvg": 18.375,
+    "eventType": "No Events"
+  }
+]

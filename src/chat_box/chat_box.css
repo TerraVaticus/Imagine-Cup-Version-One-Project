@@ -1,0 +1,125 @@
+/* Chatbox.css */
+.chat-box {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 75%;
+    height: 75%;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    z-index: 100;
+
+  }
+  
+
+.chat-header {
+  background-color: #f0f0f0;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.chat-messsages {
+  width: 100%;
+}
+
+.message {
+  height: auto;
+  text-align: left;
+  color: black;
+  font-size: calc(6px + 1vh);
+}
+  
+.close-btn {
+  cursor: pointer;
+  font-size: 16px;
+  color: black;
+  border: 2px solid black;
+}
+  
+.chat-body {
+  padding: 10px;
+  overflow-y: auto;
+  height: 75%;
+}
+
+.chat-icon {
+  position: fixed;
+  height: 10%;
+  right: 10px;
+  bottom: 10px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  background-color: lightblue;
+  border-radius: 5px;
+  border: transparent;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.chat-icon img {
+    height: 10%;
+    min-height: 50px;
+}
+
+
+@media screen and (max-device-height: 667px) {
+    /* Adjust height to fit-content for smaller screens */
+    .chat-box {
+      width: 300px;
+    }
+  }
+
+
+  .typing-indicator {
+    display: flex;
+    align-items: center;
+  }
+  
+  .typing-indicator span {
+    width: 10px;
+    height: 10px;
+    background-color: #555;
+    border-radius: 50%;
+    margin-right: 5px;
+    animation: typingAnimation 1s infinite;
+  }
+  
+  @keyframes typingAnimation {
+    0%, 100% {
+      background-color: #555;
+      opacity: 1;
+    }
+    50% {
+      background-color: transparent;
+      opacity: 0.5;
+    }
+  }
+
+
+  .userInput {
+    position: relative;
+    width: 100%; /* Adjust width as needed */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0%;
+  
+  }
+  
+  .userInput input {
+    width: 80%;
+    padding: 12px; /* Adjust padding as needed */
+    border-radius: 10px;
+    border: 1px solid gray;
+    background-color: white;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    color: #333;
+    box-sizing: border-box;
+    font-size: 1.5vh;
+  }
+    

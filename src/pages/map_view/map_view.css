@@ -1,0 +1,81 @@
+html, body {
+    margin: 0;
+}
+
+#myMap {
+    height: 100%;
+    top: 5%;
+}
+
+.map-wrapper {
+    top: 50%;
+    display: flex;
+    flex-direction: column; 
+    height: 10vh;
+  }
+
+
+.chatbox {
+    border: 2px solid black;
+    width: 44.69%;
+    position: absolute;
+    left: 55%;
+    top: 5%;
+    height: 70%;
+    overflow: auto;
+
+}
+  
+
+#mapVisualUI {
+    height: fit-content;
+    display: flex;
+}
+
+#userInfo {
+    width: 40%;
+    height: 100vh;
+    position: relative;
+    
+}
+
+#displayMapData {
+    display: inline;
+    width: 60%;
+    border-right: 2px solid gray;
+}
+  /* Apply styles to the footer */
+footer {
+    position: fixed;
+    bottom: 5px; /* Adjust as needed */
+    left: 10px; /* Adjust as needed */
+    font-size: 14px; /* Adjust font size */
+    color: #999; /* Adjust color */
+}
+
+.forecastCard {
+    margin: 5%;
+    width: 90%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.analysisCard {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+    margin: 5%;
+    overflow: auto;
+}
+
+
+@media screen and (max-device-width: 600px) {
+    #displayMapData {
+        display: inline;
+        width: 100%;
+    }
+}

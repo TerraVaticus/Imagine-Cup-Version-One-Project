@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: whitesmoke;
+  word-break: keep-all;
+  color: #F4F5FA;
+  height: fit-content;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+h1 {
+  color: black;
+}
+
+p {
+  font-size:calc(7px + 1vh);
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.home_header {
+  display: flex;
+  flex-wrap: wrap;
+  position: fixed;
+  width: 100%;
+  align-items: center;
+  background-color: #F4F5FA;
+  color: black;
+  padding: 0 1rem;
+  z-index: 1000;
+
+}
+
+.home_header a {
+  padding-right: 10%;
+  font-size: 15px;
+  text-decoration: underline;
+  color: black;
+  
+}
+
+/* Set a minimum font size */
+@media (max-width: 768px) {
+  .home_header a {
+    font-size: 16px; /* Your minimum font size in pixels */
+  }
+}
+
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+  h2 {
+    font-size: 2.5vh;
+  }
+
+  p {
+    font-size: 1.5vh;
+  }
+
+  .home_header a {
+    font-size: 1.2vh;
+  }
+}
+
+
+.headerLink {
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+  display: inline-block;
+  min-width: 71.25px;
+  overflow: hidden;
+  text-overflow: ellipsis; 
+
+}
+
+
+.mainBody {
+  border: 10px solid purple;
+  height: 100%;
+  width: 100%;
+}

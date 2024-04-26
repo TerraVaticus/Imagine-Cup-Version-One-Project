@@ -1,0 +1,25 @@
+/* Menu.css */
+.menu {
+    border-right: 2px solid lightgray;
+    top: 5%;
+    height: 100%;
+    width: 13%;
+    text-decoration: dashed;
+    position: fixed;
+
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0;
+    cursor: pointer;
+  }
+  
+  .data_visual {
+    color: black;
+    height: 100%;
+  }
